@@ -105,9 +105,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayanknagar10&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanknagar10&hide_border=true" />
 </p>
+
+<!-- The full stats card (commits/PRs/issues) was removed because the public github-readme-stats.vercel.app
+instance is a shared, rate-limited service that intermittently returns broken images for everyone.
+To bring it back reliably, self-host your own copy on Vercel (fork anuraghazra/github-readme-stats,
+deploy to your own account) and swap in your own URL here, e.g.:
+<img height="165" src="https://YOUR-OWN-DEPLOYMENT.vercel.app/api?username=mayanknagar10&show_icons=true&hide_border=true" /> -->
+
 
 ---
 
