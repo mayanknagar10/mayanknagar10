@@ -104,6 +104,8 @@
 
 ### 📊 GitHub Stats
 
+<p align="center"><sub>318 contributions since joining GitHub in 2021, across 10 public repositories.</sub></p>
+
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mayanknagar10&hide_border=true" />
 </p>
@@ -113,7 +115,6 @@ instance is a shared, rate-limited service that intermittently returns broken im
 To bring it back reliably, self-host your own copy on Vercel (fork anuraghazra/github-readme-stats,
 deploy to your own account) and swap in your own URL here, e.g.:
 <img height="165" src="https://YOUR-OWN-DEPLOYMENT.vercel.app/api?username=mayanknagar10&show_icons=true&hide_border=true" /> -->
-
 
 ---
 
